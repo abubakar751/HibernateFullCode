@@ -1,0 +1,5 @@
+package com.hibernate.Embeddable;
+
+public class EmbeddableMain {
+
+}

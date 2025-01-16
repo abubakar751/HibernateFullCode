@@ -1,0 +1,19 @@
+package com.hibernate;
+
+import java.sql.Date;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Transient;
+@Entity
+public class Address {
+	@Id
+private int id ;
+	@Column(name="name")
+private String name;
+	@Transient
+private String secName;
+private Date date;
+private byte image;
+}
