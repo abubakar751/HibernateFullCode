@@ -20,7 +20,7 @@ public class App
     {
         
       Configuration configuration = new Configuration();
-      configuration.configure("com/hibernate/config.xml");
+      configuration.configure("com/config.xml");
       SessionFactory sessionFactory = configuration.buildSessionFactory(); 
       Student student = new Student();
       student.setId(102);
