@@ -309,3 +309,11 @@
 2025-01-20 12:54:55,938 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
 2025-01-20 23:16:00,306 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@70e81dd9{STOPPING}[12.0.3,sto=0]
 2025-01-20 23:16:00,324 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@47e43b8e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-01-21 10:23:24,556 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-21 10:35:25,214 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-21 10:35:27,350 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-21 10:35:27,358 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-21 10:39:22,191 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-21 10:39:22,198 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-21 10:39:55,153 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-21 10:39:55,158 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
