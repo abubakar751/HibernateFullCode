@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
     <fullyQualifiedTypeName name="jakarta.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.FetchType"/>
+    <fullyQualifiedTypeName name="com.hibernate.fetch_technique.Account"/>
+    <fullyQualifiedTypeName name="com.hibernate.fetch_technique.Person"/>
 </qualifiedTypeNameHistroy>

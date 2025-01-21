@@ -240,3 +240,72 @@
 2025-01-20 00:39:32,025 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
 2025-01-20 00:39:34,204 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@75401dc5{STOPPING}[12.0.3,sto=0]
 2025-01-20 00:39:34,215 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@28e32b92{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-01-20 10:24:35,901 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-20 10:24:49,790 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-20 10:24:52,490 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 10:24:52,501 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 10:26:02,247 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.7+7
+2025-01-20 10:26:02,385 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5cfdcded{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7cba1bf4{STARTED}}
+2025-01-20 10:26:02,386 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-01-20 10:26:02,539 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@47e43b8e{HTTP/1.1, (http/1.1)}{127.0.0.1:49897}
+2025-01-20 10:26:02,575 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@70e81dd9{STARTING}[12.0.3,sto=0] @138430ms
+2025-01-20 10:26:58,006 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 10:26:58,011 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 10:28:44,775 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 10:28:44,779 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:01:27,144 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:01:27,148 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:18:58,846 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:18:58,850 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:19:08,592 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:19:08,596 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:19:38,773 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:19:38,776 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:19:42,729 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:19:42,745 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:19:47,671 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:19:47,679 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:20:06,035 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:20:06,039 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:20:15,705 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:20:15,709 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:23:54,951 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:23:54,955 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:24:38,297 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:24:38,303 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:27:01,517 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:27:01,520 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:27:40,750 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:27:40,754 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:27:43,013 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:27:43,018 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:28:46,290 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:28:46,294 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:28:48,997 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:28:49,000 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:29:21,381 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:29:21,385 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:29:58,489 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:29:58,494 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:33:24,269 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:33:24,275 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:36:31,071 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:36:31,075 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:36:58,152 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:36:58,156 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:39:56,108 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:39:56,111 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:40:05,385 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:40:05,391 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:40:32,249 [Worker-43: Launching PredictionMode.AltAndContextMap] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:40:32,252 [Worker-43: Launching PredictionMode.AltAndContextMap] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:40:50,178 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:40:50,183 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:43:34,608 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:43:34,612 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:51:12,316 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:51:12,321 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 12:54:55,933 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\main\resources
+2025-01-20 12:54:55,938 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\AllCode\Hibernate\HibernateFullCode\src\test\resources
+2025-01-20 23:16:00,306 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@70e81dd9{STOPPING}[12.0.3,sto=0]
+2025-01-20 23:16:00,324 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@47e43b8e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
