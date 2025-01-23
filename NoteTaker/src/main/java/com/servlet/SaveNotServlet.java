@@ -1,6 +1,7 @@
 package com.servlet;
 
 import java.io.IOException;
+
 import java.util.Date;
 
 import javax.servlet.ServletException;
@@ -45,9 +46,11 @@ public class SaveNotServlet extends HttpServlet {
             transaction.commit();
             session.close();
 
-            response.getWriter().println("Note saved successfully!");
-
-        } catch (Exception e) {
+            response.getWriter().println("<div style='text-align: center;'>"
+            	    + "<h1>Note saved successfully!</h1>"
+            	    + "<a href='all_notes.jsp'>View All Notes</a>"
+            	    + "</div>");
+  } catch (Exception e) {
             e.printStackTrace();
             response.getWriter().println("An error occurred: " + e.getMessage());
         }
