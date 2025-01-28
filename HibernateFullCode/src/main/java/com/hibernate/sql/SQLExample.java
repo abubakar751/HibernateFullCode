@@ -11,7 +11,7 @@ import com.hibernate.one_to_one.Question;
 
 public class SQLExample {
 
-	public static void main(String[] args) {
+	public static void main(String[] arg) {
 		SessionFactory factory = new Configuration().configure("com/hibernate/one_to_one/config.xml").buildSessionFactory();
 		Session session = factory.openSession();
 		String query = "select * from Question ";
